@@ -1,0 +1,30 @@
+{
+	"Favorite Jazz Musicians": [
+		{
+			"Person": "Kenny Garrett",
+			"Instrument": "Saxophone",
+			"Album": "Sounds from the Ancestors, Songbook",
+			"Songs": "Tango in 6, November 15"
+		},
+		{
+			"Person": "Chick Corea",
+			"Instrument": "Piano",
+			"Album": "Trilogy, Remembering Bud Powell",
+			"Songs": "Spain, How Deep is the Ocean"
+		},
+		{
+			"Person": "Brian Blade",
+			"Instrument": "Drums",
+			"Album": "Brian Blade Fellowship, Landmarks",
+			"Songs": "Red River Revel, Crooked Creek"
+		}
+		{
+			"Person": "Robert Glasper",
+			"Instrument": "Piano",
+			"Album": "Double Booked, Black Radio, Dinner Party",
+			"Songs": "L.N.K Blues, Better Than I Imagined"
+		}
+	]
+}
+#is this not working because i am trying to render it from my computer instead of web server? Will this work if it renders on web server?
+#i used the file he had us download and just edited it, is taht okay? Do i have to make a new file?
