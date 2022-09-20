@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!ELEMENT restaurants restaurants+>
+<!ELEMENT restaurants (restaurant+)>
 <!ELEMENT restaurant (id, name, cuisine, city, open, close)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT name (#PCDATA)>
