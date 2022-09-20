@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE letters SYSTEM "restaurants.dtd">
 <root>
     <restaurant>
         <id>0</id>
@@ -25,16 +26,3 @@
         <close>3pm</close>       
     </restaurant>
 </root>
-    
-#I do not know how to open a DTD file so i just put the code here until i ask kent
-
-<?xml version="1.0" encoding="UTF-8"?>
-
-!<ELEMENT restaurant (id, name, cuisine, city, open, close)>
-<!ELEMENT id (#PCDATA)>
-<!ELEMENT name (#PCDATA)>
-<!ELEMENT cuisine (#PCDATA)>
-<!ELEMENT city (#PCDATA)>
-<!ELEMENT open (#PCDATA)>
-<!ELEMENT close (#PCDATA)>
-
